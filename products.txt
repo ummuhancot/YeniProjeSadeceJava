@@ -1,0 +1,5 @@
+Phone,1000.0,10,Electronic,2 years
+Laptop,1500.0,5,Clothing,L
+telefon,8000.0,800,Electronic,2
+Phone,1000.0,10,Electronic,2 years
+Laptop,1500.0,5,Clothing,L

@@ -2,7 +2,7 @@ package domain;
 
 import server.Store;
 
-public class AdminUser extends Online_store.User {
+public class AdminUser extends User {
 
     // Constructor
     public AdminUser(String username, String email) {
